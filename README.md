@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I am Progress Momoh 👋
 
-<!--
-**ProgressMomoh/ProgressMomoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Environmental Manager | GIS Analyst | HSE Compliance Specialist**
 
-Here are some ideas to get you started:
+I am an Environmental Management and Toxicology graduate (First Class Honours) who specializes in translating complex spatial data into actionable safety and environmental strategies. I build maps and data models that help organizations identify risks, protect ecological receptors, and ensure operational safety before contractors even step on site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Technical Skills
+* **GIS and Spatial Analysis:** QGIS, Buffer Analysis, Vector Digitization, Spatial Risk Modeling
+* **Data and Operations:** SQL, Power BI, Advanced Excel, Tableau, Notion
+* **HSE and Compliance:** Environmental Impact Assessment (EIA), Waste Management, Cascade Risk Mitigation, Regulatory Compliance
+
+---
+
+### 📂 Featured Portfolio Projects
+
+#### 1. [WRPC Operational HSE and Containment Strategy](https://github.com/ProgressMomoh/WRPC-HSE-Spatial-Assessment)
+* **Scope:** Micro scale facility analysis and predeployment planning.
+* **Overview:** A site specific operational risk assessment for a 40 hectare industrial facility. I manually digitized 10 critical storage assets and mapped 50m hazard buffers to visualize cascade risks. I also engineered spatial containment strategies, including a Cold Zone safety area and a runoff barrier to protect the nearby Ekpan River from potential contamination.
+* **Key Skills:** Primary data generation, vertex digitization, CRS projection management.
+
+#### 2. [Düsseldorf Spatial Risk Assessment](https://github.com/ProgressMomoh/Dusseldorf-Spatial-Assessment)
+* **Scope:** Macro level urban and ecological risk modeling.
+* **Overview:** A regional spatial analysis mapping the intersection between industrial hazard zones and vulnerable public receptors across Düsseldorf, Germany. I sourced authoritative open source vector data and cleaned the datasets to filter out irrelevant noise before mapping the exact points where industrial activity threatened ecological green spaces.
+* **Key Skills:** SQL data cleaning, spatial intersections, large dataset management.
+
+---
+
+### 📫 Let's Connect
+* **LinkedIn:** [Progress Ofuje Momoh](https://www.linkedin.com/in/progress-ofuje-momoh)
+* **Email:** [momohprogress2@gmail.com](mailto:momohprogress2@gmail.com)
