@@ -1,4 +1,4 @@
-# Hi, I am Progress Momoh 👋
+# Hi, I am Progress Ofuje Momoh 👋
 
 **Environmental Manager | GIS Analyst | HSE Compliance Specialist**
 
